@@ -235,6 +235,8 @@ Reusable prompts are available in:
 10. Final review from mistake log + cheat sheets
 ```
 
+> **Important:** If you have a weakness in one of the exam domains—for example, **MLA-C01 Domain 2: Data Preparation for Machine Learning**—focus on that domain, review it carefully until you understand it, and challenge your understanding with mock exams.
+
 ---
 
 # ✅ How to Review a Practice Question
