@@ -15,7 +15,7 @@ My preparation was built around three main resources:
 | Resource | How I used it |
 |---|---|
 | [Manara – AWS Machine Learning Engineer Learning Path](https://app.manara.tech/learning/37/landing-page?source=Classroom) | Main learning source for reading the topics and building the core understanding |
-| [Machine Learning Engineer – Unsolved Practice Questions](https://drive.google.com/file/d/1Wh22-gXFfQtTx2LjfUhMBPZYr5jhoog3/view) | Question practice after studying each topic |
+| [Machine Learning Engineer – Unsolved Practice Questions](https://drive.google.com/file/d/1OXg9mIvqB5nIM1pEobB-Y7cPnaeZUc9r/view) | Question practice after studying each topic |
 | [Tutorials Dojo – AWS Machine Learning Engineer Associate Practice Exams](https://portal.tutorialsdojo.com/courses/aws-certified-machine-learning-engineer-associate-mla-c02-practice-exams/) | Final-stage practice because the format and difficulty are useful for exam-style training |
 
 ---
